@@ -11,6 +11,7 @@
 		F8E1EB722994012A00E37323 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E1EB712994012A00E37323 /* ContentView.swift */; };
 		F8E1EB742994012B00E37323 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8E1EB732994012B00E37323 /* Assets.xcassets */; };
 		F8E1EB772994012B00E37323 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8E1EB762994012B00E37323 /* Preview Assets.xcassets */; };
+		F8E1EB7E2994035300E37323 /* TaskFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E1EB7D2994035300E37323 /* TaskFiles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F8E1EB712994012A00E37323 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8E1EB732994012B00E37323 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8E1EB762994012B00E37323 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8E1EB7D2994035300E37323 /* TaskFiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFiles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		F8E1EB6E2994012A00E37323 /* TaskListApp */ = {
 			isa = PBXGroup;
 			children = (
+				F8E1EB7D2994035300E37323 /* TaskFiles.swift */,
 				F8E1EB6F2994012A00E37323 /* TaskListAppApp.swift */,
 				F8E1EB712994012A00E37323 /* ContentView.swift */,
 				F8E1EB732994012B00E37323 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8E1EB722994012A00E37323 /* ContentView.swift in Sources */,
+				F8E1EB7E2994035300E37323 /* TaskFiles.swift in Sources */,
 				F8E1EB702994012A00E37323 /* TaskListAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
